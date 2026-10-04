@@ -2,7 +2,7 @@
 
 Eine kostenlose, werbefreie Android-App von Your Needs – für die wirklich wichtigen Dinge.
 
-**Öffentliche Testversion 0.3.0 · Android 9 oder neuer · Datenabdeckung Deutschland.**
+**Öffentliche Testversion 0.3.1 · Android 9 oder neuer · Datenabdeckung Deutschland.**
 
 [APK herunterladen](https://github.com/flinkfx/klofinder-releases/releases/latest/download/Klo-Finder.apk) · [Versionshinweise und Prüfsummen](https://github.com/flinkfx/klofinder-releases/releases/latest) · [Datenschutz](PRIVACY.md) · [Impressum](https://yourneeds.app/rechtliches?lang=de#impressum)
 
