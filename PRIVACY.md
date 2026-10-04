@@ -1,6 +1,6 @@
 # Datenschutz – Klo Finder für Android
 
-Stand: 4. Oktober 2026 · reguläre Testversion 0.3.0, Paket `app.yourneeds.klofinder`.
+Stand: 4. Oktober 2026 · reguläre Testversion 0.3.1, Paket `app.yourneeds.klofinder`.
 
 Verantwortlich für Klo Finder: Jan Hartmann / Your Needs, Kontakt **yourneeds.apps@gmail.com**. Vollständige ladungsfähige Anschrift: [Impressum](https://yourneeds.app/rechtliches?lang=de#impressum). Diese Hinweise beschreiben die Android-App; für die Website gelten deren eigene Hinweise.
 
